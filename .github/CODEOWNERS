@@ -2,4 +2,4 @@
 # Syntax: Each line is a file pattern followed by one or more owners.
 
 # The metadata_table file need PR review from one of two reviewer
-/files/metadata_table.csv @zhai1976q3451345
+/files/metadata_table.csv @zhai1976
